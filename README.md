@@ -27,5 +27,6 @@ Computer Science student at UNIP & Full-Stack Developer at DIO. Currently an int
 ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-black?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ***
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniz0x&theme=dark&bg_color=ffffff&border_color=000000&show_icons=true&icon_color=000000&title_color=000000&text_color=000000)
