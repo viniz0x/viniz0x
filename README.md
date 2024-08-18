@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="280" src="https://academy.hsoub.com/uploads/monthly_2023_01/1719052418_--.thumb.png.48939055ee7b8df8f6577f82ac2db3dd.png">
 
 ## Pedro Vinícius
-Computer Science student & Full-Stack Developer. Currently an intern in data analyst and PMO at CPFL Serviços. I've always been a person who likes to be up to date with technological trends... directing me to my current line of study.
+Computer Science student & Full-Stack Developer. Currently an intern in data analyst and PMO in a publicly traded company. I've always been a person who likes to be up to date with technological trends... directing me to my current line of study.
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/pedro-vin%C3%ADcius-nascimento/) 
