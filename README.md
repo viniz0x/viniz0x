@@ -4,7 +4,7 @@
 Computer Science student & Full-Stack Developer. Currently an intern in data analyst and PMO in a publicly traded company. I've always been a person who likes to be up to date with technological trends... directing me to my current line of study.
 
 ### Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/pedro-vin%C3%ADcius-nascimento/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/-pedro-vinicius/) 
 [![Discord](https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/channels/@SEUUSERNAME/) 
 [![Instagram](https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/viniz0x/) 
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black)](mailto:pv.nascimento04@gmail.com)	
